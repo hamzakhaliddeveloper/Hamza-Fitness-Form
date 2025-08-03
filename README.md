@@ -3,11 +3,9 @@ Welcome to Hamza Fitness, a beginner-friendly front-end web project designed usi
 
 📄 Project Description
 Hamza Fitness is a fictional gym website built to demonstrate fundamental web development skills. The page includes a navigation bar, styled buttons, an attractive form layout, and a responsive design with a background image.
-
 Users can enter their personal information such as name, age, gender, contact number, email, and locality to register for the gym.
 
-🌐 Live Preview
-👉 Live Website ()
+👉 Live Website: https://github.com/hamzakhaliddeveloper/Hamza-Fitness-Form
 
 🚀 Features
 Responsive layout with header, form, and footer
@@ -24,19 +22,10 @@ CSS3
 Google Fonts (Baloo Bhai)
 Images (logo.png, gymboy.jpg)
 
-📁 File Structure
-bash
-Copy
-Edit
-/HamzaFitness
-│
-├── index.html           # Main HTML file
-├── style.css            # CSS styles
-├── logo.png             # Gym logo
-└── gymboy.jpg           # Background image
 📌 Note
 This project is static and currently does not include backend or JavaScript functionality.
 The form's action is set to a placeholder (noaction.php) and doesn't submit data.
+
 🙌 Author
 Developed by Hamza Khalid
 Feel free to connect with me on www.linkedin.com/in/hamzakhaliddeveloper
